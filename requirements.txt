@@ -2,7 +2,4 @@ numpy
 matplotlib
 openpyxl
 packaging
-pandas
-openpy
-plotly
-strea
+
