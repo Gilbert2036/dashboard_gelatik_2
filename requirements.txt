@@ -1,4 +1,9 @@
-pandas
+et_xmlfile
+narwhals
+numpy
 openpyxl
+packaging
+pandas
+openpy
 plotly
-streamlit
+strea
